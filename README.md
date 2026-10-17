@@ -44,13 +44,13 @@ Make sure you have the following installed:
 **1. Clone the repository**
 
 ```bash
-git clone <https://github.com/Sarfraj-Shaikh/Zustand-Image-Gallery.git>
+git clone https://github.com/Sarfraj-Shaikh/Zustand-Image-Gallery.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd <Zustand-Image-Gallery>
+cd Zustand-Image-Gallery
 ```
 
 **3. Install dependencies**
