@@ -1,8 +1,12 @@
 # Image Gallery Using React.js & Zustand
 
+<img width="1672" height="941" alt="Live React Image Gallery Tutorial" src="https://github.com/user-attachments/assets/08c7cacf-9e0c-431f-b903-9fc17fdec417" />
+
 A modern Image Gallery project built with **React.js** and **Zustand** for lightweight and efficient state management. This project was developed as part of a live coding stream on **Work With Sarfraj**.
 
 ## 🚀 About the Project
+
+<img width="1675" height="953" alt="Image Gallery" src="https://github.com/user-attachments/assets/e8ab2055-7a31-46e3-846f-f6618e8956a1" />
 
 This project demonstrates how to build an Image Gallery using React and Zustand. It focuses on component-based development, state management, and creating a clean user interface.
 
